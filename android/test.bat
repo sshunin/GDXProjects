@@ -1,0 +1,1 @@
+"C:\Program Files\Android\jdk\microsoft_dist_openjdk_1.8.0.25\jre\bin\keytool.exe" -genkey -v -keystore debug.keystore -storepass android -alias androiddebugkey -keypass android -keyalg RSA -keysize 2048 -validity 10000
